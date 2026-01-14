@@ -471,7 +471,7 @@ SOFTWARE.
 |:---:|:---:|
 | <img src="https://avatars.githubusercontent.com/usuario1" width="100" alt="Aluno 1"/> | <img src="https://avatars.githubusercontent.com/usuario2" width="100" alt="Aluno 2"/> |
 | **Aluno 1** | **Aluno 2** |
-| [@usuario1](https://github.com/usuario1) | [@usuario2](https://github.com/usuario2) |
+| [@usuario1](https://github.com/ztechbr) | [@usuario2](https://github.com/rbtech-mobi) |
 
 Em trabalho acadêmico em dupla, ambos os membros devem comitar e participar ativamente. Este README evidencia a colaboração.
 
