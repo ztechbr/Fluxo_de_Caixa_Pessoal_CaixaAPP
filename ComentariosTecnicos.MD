@@ -1,6 +1,5 @@
-======================================================================
-DOCUMENTAÇÃO TÉCNICA DO PROJETO: APP FLUXO DE CAIXA (UTFPR)
-======================================================================
+DOCUMENTAÇÃO TÉCNICA DO PROJETO: 
+APP FLUXO DE CAIXA (UTFPR)
 
 1. OBJETIVO
 Desenvolvimento de um aplicativo nativo Android (Kotlin) para controle 
@@ -45,3 +44,7 @@ para garantir separação de responsabilidades e facilidade de manutenção:
 - /database: Configuração do SQLite e classes DAO.
 - /adapter: Lógica de personalização da lista (Cores e formatação).
 - /view: Activities e interface do usuário.
+
+
+
+
