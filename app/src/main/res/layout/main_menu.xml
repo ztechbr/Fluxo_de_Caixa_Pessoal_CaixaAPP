@@ -23,6 +23,7 @@
         android:layout_marginTop="48dp"
         android:fontFamily="sans-serif-medium"
         android:text="@string/menu_welcome"
+
         android:textColor="#FFFFFF"
         android:textSize="20sp"
         app:layout_constraintStart_toStartOf="parent"
@@ -33,6 +34,7 @@
         android:layout_height="wrap_content"
         android:fontFamily="sans-serif-light"
         android:text="@string/menu_dashboard_title"
+
         android:textColor="#E0E7FF"
         android:textSize="14sp"
         app:layout_constraintStart_toStartOf="@id/menuTitle"
@@ -68,6 +70,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/filter_by_label"
+
                     android:textColor="@color/text_primary"/>
 
                 <Space
@@ -87,6 +90,7 @@
                 android:layout_height="wrap_content"
                 android:fontFamily="sans-serif"
                 android:text="@string/total_balance"
+
                 android:layout_marginTop="16dp"
                 android:textColor="@color/text_primary"
                 android:textSize="14sp" />
@@ -123,6 +127,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="@string/income_label"
+
                         android:textColor="@color/text_primary"
                         android:textSize="12sp" />
 
@@ -146,6 +151,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="@string/expense_label"
+
                         android:textColor="@color/text_primary"
                         android:textSize="12sp" />
 
@@ -181,6 +187,7 @@
                 android:layout_height="wrap_content"
                 android:fontFamily="sans-serif-medium"
                 android:text="@string/quick_actions"
+
                 android:textColor="@color/text_primary"
                 android:textSize="16sp"
                 app:layout_constraintStart_toStartOf="parent"
@@ -222,6 +229,7 @@
                         android:layout_marginTop="8dp"
                         android:fontFamily="sans-serif-medium"
                         android:text="@string/action_new_transaction"
+
                         android:textColor="@color/text_primary"
                         android:textSize="14sp" />
                 </LinearLayout>
@@ -304,6 +312,7 @@
                         android:layout_marginTop="8dp"
                         android:fontFamily="sans-serif-medium"
                         android:text="@string/action_charts"
+
                         android:textColor="@color/text_primary"
                         android:textSize="14sp" />
                 </LinearLayout>
@@ -345,6 +354,7 @@
                         android:layout_marginTop="8dp"
                         android:fontFamily="sans-serif-medium"
                         android:text="@string/action_export"
+
                         android:textColor="@color/text_primary"
                         android:textSize="14sp" />
                 </LinearLayout>
@@ -357,6 +367,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="24dp"
                 android:text="@string/action_sync"
+
                 android:textColor="@color/primary"
                 app:icon="@android:drawable/ic_popup_sync"
                 app:layout_constraintTop_toBottomOf="@id/cardCharts" />

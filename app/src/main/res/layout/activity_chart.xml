@@ -22,6 +22,7 @@
         android:layout_marginTop="48dp"
         android:fontFamily="sans-serif-medium"
         android:text="@string/trend_chart_title"
+
         android:textColor="#FFFFFF"
         android:textSize="20sp"
         app:layout_constraintStart_toStartOf="parent"
@@ -62,6 +63,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/filter_by_label"
+
                 android:textColor="@color/text_secondary" />
 
             <Space
@@ -106,6 +108,7 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="16dp"
         android:text="@string/action_back"
+
         app:icon="@android:drawable/ic_menu_revert"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

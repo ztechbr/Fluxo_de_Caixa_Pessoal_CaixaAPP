@@ -57,6 +57,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:text="@string/transaction_value_hint"
+
                     android:textColor="@color/text_primary"
                     android:textSize="14sp" />
 
@@ -75,6 +76,7 @@
                         android:fontFamily="sans-serif-medium"
                         android:gravity="center"
                         android:hint="@string/r_0_00"
+
                         android:inputType="numberDecimal"
                         android:textColor="@color/text_primary"
                         android:textSize="48sp"
@@ -136,6 +138,7 @@
                     android:layout_height="wrap_content"
                     android:layout_marginTop="24dp"
                     android:text="@string/transaction_person_label"
+
                     android:textColor="@color/text_primary"
                     android:textSize="12sp" />
 
@@ -153,6 +156,7 @@
                     android:layout_marginTop="24dp"
                     android:hint="@string/transaction_description_hint">
 
+
                     <com.google.android.material.textfield.TextInputEditText
                         android:id="@+id/descriptionInput"
                         android:layout_width="match_parent"
@@ -167,6 +171,7 @@
                     android:layout_marginTop="32dp"
                     android:fontFamily="sans-serif-medium"
                     android:text="@string/action_save_transaction"
+
                     app:cornerRadius="12dp" />
 
                 <com.google.android.material.button.MaterialButton

@@ -21,6 +21,7 @@
         android:layout_marginTop="48dp"
         android:fontFamily="sans-serif-medium"
         android:text="@string/statement_full_title"
+
         android:textColor="#FFFFFF"
         android:textSize="20sp"
         app:layout_constraintStart_toStartOf="parent"
@@ -31,6 +32,7 @@
         android:layout_height="wrap_content"
         android:fontFamily="sans-serif-light"
         android:text="@string/menu_dashboard_title"
+
         android:textColor="#E0E7FF"
         android:textSize="14sp"
         app:layout_constraintStart_toStartOf="@id/menuTitle"
@@ -60,6 +62,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/filter_by_label"
+
                 android:textColor="@color/text_primary" />
 
             <Space
@@ -109,6 +112,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/balance_label"
+
                 android:textColor="@color/text_primary"
                 android:textSize="12sp"
                 app:layout_constraintStart_toStartOf="parent"
