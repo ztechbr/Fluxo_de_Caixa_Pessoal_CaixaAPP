@@ -22,12 +22,7 @@
 - [Persona e Problema](#-persona-e-problema)
 - [Funcionalidades](#-funcionalidades)
 - [Screenshots](#-screenshots)
-- [Arquitetura](#-arquitetura)
-- [Tech Stack](#-tech-stack)
-- [Estrutura do Projeto](#-estrutura-do-projeto)
-- [Como Executar](#-como-executar)
-- [Checklist de Avaliação](#-checklist-de-avaliação)
-- [Roadmap](#-roadmap)
+- [Arquitetura e demais informações](#-arquitetura)
 - [Licença](#-licença)
 
 ---
@@ -133,3 +128,48 @@ O **CaixaAPP** oferece:
 O projeto segue o padrão MVC (Model-View_Controler) conforme uma das opções nos requisitos iniciais para entrega até o dia 15/fev.
 
 Em versões futuras, para Goto Market estamos avaliando migrar para MVVM (Model-View-ViewModel) com separação clara de responsabilidades.
+
+Contribuidores:
+
+<a href="https://github.com/rbtech-mobi">Rogerio Bianchini</a>
+
+<a href="https://github.com/ztechbr">Rodrigo Zaroni</a>
+
+📂 Dados do Projeto
+Consulte os documentos detalhados:
+
+documentacaoPO.md |
+sprintsprojeto.md |
+ComentariosTecnicos.md
+
+📚 Referências Técnicas
+Android Developer Guide - Room |
+Material Design 3 Components |
+MPAndroidChart Documentation |
+Kotlin Coroutines - Best Practices
+
+## 🏗 licença
+
+Este projeto é de uso acadêmico e está licenciado sob MIT License para fins educacionais.
+
+MIT License
+
+Copyright (c) 2024 CaixaAPP - UTFPR Pós-Graduação
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
