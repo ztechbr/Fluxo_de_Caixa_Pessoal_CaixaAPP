@@ -1,4 +1,7 @@
-Documentação de Encerramento: CaixaAPP (Versão Final)
+
+
+Documentação de Encerramento: CaixaAPP
+
 1. Visão do Produto
 O CaixaAPP é um ecossistema nativo Android (Kotlin) para gestão financeira familiar. Ele se destaca pela robustez arquitetural (MVC) e pela flexibilidade de configuração. Através de um motor de inteligência que consome dados de arquivos JSON, o app oferece segurança biométrica configurável, rateio dinâmico de despesas e uma interface analítica completa.
 
@@ -46,4 +49,5 @@ Critérios de Aceite (Realizados):
 [X] Diferenciação Visual (Plus): Adapter customizado exibindo Receitas em VERDE e Despesas em VERMELHO.
 [X] Cálculo de Saldo (Plus): Exibição da soma dinâmica (Receitas - Despesas) no cabeçalho do extrato.
 [X] Gráficos e JSON: Motor de leitura de assets para rateio familiar e exibição de gráficos via MPAndroidChart.
+
 
