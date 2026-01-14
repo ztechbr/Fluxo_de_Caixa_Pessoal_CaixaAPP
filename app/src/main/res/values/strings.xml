@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">CaixaAPP</string>
+    <string name="app_name">CaixaAPP - Fluxo de Caixa Pessoal</string>
 
     <!-- General Actions -->
     <string name="action_back">Voltar</string>
@@ -10,7 +10,7 @@
 
     <!-- Main Menu -->
     <string name="menu_welcome">Olá, Bem-vindo</string>
-    <string name="menu_dashboard_title">CaixaAPP Dashboard</string>
+    <string name="menu_dashboard_title">Dashboard</string>
     <string name="total_balance">Saldo Total</string>
     <string name="income_label">Receitas</string>
     <string name="expense_label">Despesas</string>
@@ -52,9 +52,10 @@
     <string name="statement_total_balance">Saldo total: %1$s</string>
     <string name="dialog_delete_title">Apagar Lançamento</string>
     <string name="dialog_delete_message">Deseja realmente excluir este item?</string>
+    <string name="example_description">supermercado</string>
 
     <!-- Charts -->
-    <string name="trend_chart_title">Tendência de Saldo</string>
+    <string name="trend_chart_title">Saldo das Movimentações</string>
     <string name="all_months">Todos</string>
     <string name="label_credit">Crédito</string>
     <string name="label_debit">Débito</string>
@@ -66,6 +67,8 @@
     <string name="dialog_auth_subtitle">Use a biometria ou o PIN do dispositivo</string>
     <string name="seclogin_dis">Login Seguro Desabilitado</string>
     <string name="seclogin_enb">Login Seguro Habilitado</string>
+    <string name="biodetect">Biometria Detectada</string>
+
 
     <!-- Messages & Errors -->
     <string name="msg_export_empty">Não há lançamentos para exportar</string>

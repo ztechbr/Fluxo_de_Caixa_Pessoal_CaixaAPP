@@ -67,7 +67,7 @@
             android:textAlignment="center"
             android:textAppearance="@style/TextAppearance.MaterialComponents.Caption"
             android:textColor="?attr/colorPrimary"
-            tools:text="Biometria detectada" />
+            tools:text="@string/biodetect" />
     </LinearLayout>
 
     <com.google.android.material.button.MaterialButton

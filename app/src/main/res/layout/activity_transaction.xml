@@ -74,7 +74,7 @@
                         android:background="@android:color/transparent"
                         android:fontFamily="sans-serif-medium"
                         android:gravity="center"
-                        android:hint="R$ 0,00"
+                        android:hint="@string/r_0_00"
                         android:inputType="numberDecimal"
                         android:textColor="@color/text_primary"
                         android:textSize="48sp"
@@ -97,7 +97,10 @@
                         android:layout_width="0dp"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        android:text="@string/transaction_type_income" />
+                        android:textColor="#FFFFFF"
+                        android:textStyle="bold"
+                        app:backgroundTint="#2E7D32"
+                        android:text="Crédito" />
 
                     <com.google.android.material.button.MaterialButton
                         android:id="@+id/typeDebit"
@@ -105,7 +108,10 @@
                         android:layout_width="0dp"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        android:text="@string/transaction_type_expense" />
+                        android:textColor="#FFFFFF"
+                        android:textStyle="bold"
+                        app:backgroundTint="#D32F2F"
+                        android:text="Débito"/>
                 </com.google.android.material.button.MaterialButtonToggleGroup>
 
                 <!-- 5. Secondary Fields -->
