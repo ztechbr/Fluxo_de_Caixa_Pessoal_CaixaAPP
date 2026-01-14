@@ -130,4 +130,6 @@ O **CaixaAPP** oferece:
 
 ## 🏗 Arquitetura
 
-O projeto segue o padrão **MVVM (Model-View-ViewModel)** com separação clara de responsabilidades:
+O projeto segue o padrão MVC (Model-View_Controler) conforme uma das opções nos requisitos iniciais para entrega até o dia 15/fev.
+
+Em versões futuras, para Goto Market estamos avaliando migrar para MVVM (Model-View-ViewModel) com separação clara de responsabilidades.
